@@ -1,0 +1,101 @@
+clock_id,clock,Tissue,Outcome
+CLK002,Koch (5 CpG),Multiple tissues,Chronological age
+CLK004,Hannum clock (88 CpG),Blood,Chronological age
+CLK003,Hannum clock (69 CpG),Blood,Chronological age
+CLK006,Horvath clock (353 CpG),Multiple tissues,Chronological age
+CLK007,Horvath clock (110 CpG),Multiple tissues,Chronological age
+CLK213,Weidner (3 CpG),Blood,Chronological age
+CLK010,Lin (99 CpG),Blood,Chronological age
+CLK011,Lin (3 CpG),Blood,Chronological age
+CLK015,Vidal-Bralo (8 CpG),Blood,Chronological age
+CLK026,DNAm PhenoAge,Blood,Mortality-related age
+CLK027,Horvath2 clock,Multiple tissues,Chronological age
+CLK043,DNAm GrimAge,Blood,Mortality-related age
+CLK055,Zhang (514 CpG),Multiple tissues,Chronological age
+CLK056,BLUP,Multiple tissues,Chronological age
+CLK069,Wu (111 CpG),Blood,Chronological age
+CLK215,Han (65 CpG),Blood,Chronological age
+CLK082,ABEC,Blood,Chronological age
+CLK209,cABEC,Blood,Chronological age
+CLK210,eABEC,Blood,Chronological age
+CLK099,Schmidt (7 CpG),Multiple tissues,Chronological age
+CLK216,Pipek ElasticNet,Multiple tissues,Chronological age
+CLK217,Pipek Filtered H,Multiple tissues,Chronological age
+CLK218,Pipek Retrained H,Multiple tissues,Chronological age
+CLK107,MonoDNAmAge,Blood,Chronological age
+CLK115,PCPhenoAge,Blood,Chronological age
+CLK214,HRSInCHPhenoAge,Blood,Chronological age
+CLK229,PCHorvath,Multiple tissues,Chronological age
+CLK230,PCHorvath2,Multiple tissues,Chronological age
+CLK231,PCHannum,Blood,Chronological age
+CLK232,PCGrimAge,Blood,Mortality-related age
+CLK118,GrimAge2,Blood,Mortality-related age
+CLK234,AltumAge,Multiple tissues,Chronological age
+CLK123,DNAmFitAge,Blood,Other age estimate
+CLK211,ENCen40,Multiple tissues,Chronological age
+CLK212,ENCen100,Multiple tissues,Chronological age
+CLK129,Systems Age,Blood,Mortality-related age
+CLK253,SystemsAge Blood,Blood,Mortality-related age
+CLK254,SystemsAge Brain,Blood,Mortality-related age
+CLK255,SystemsAge Inflammation,Blood,Mortality-related age
+CLK256,SystemsAge Heart,Blood,Mortality-related age
+CLK257,SystemsAge Hormone,Blood,Mortality-related age
+CLK258,SystemsAge Immune,Blood,Mortality-related age
+CLK259,SystemsAge Kidney,Blood,Mortality-related age
+CLK260,SystemsAge Liver,Blood,Mortality-related age
+CLK261,SystemsAge Metabolic,Blood,Mortality-related age
+CLK262,SystemsAge Lung,Blood,Mortality-related age
+CLK263,SystemsAge MusculoSkeletal,Blood,Mortality-related age
+CLK132,GP-age (30 CpG),Blood,Chronological age
+CLK237,GP-age (10 CpG),Blood,Chronological age
+CLK238,GP-age (71 CpG),Blood,Chronological age
+CLK239,GP-age (variant a),Blood,Chronological age
+CLK240,GP-age (variant b),Blood,Chronological age
+CLK241,GP-age (variant c),Blood,Chronological age
+CLK138,CausAge,Blood,Chronological age
+CLK201,DamAge,Blood,Chronological age
+CLK202,AdaptAge,Blood,Chronological age
+CLK143,iCAS DNAmAge,Blood,Chronological age
+CLK244,iCAS CompositeAge,Blood,Other age estimate
+CLK245,iCAS FacialAge,Blood,Other age estimate
+CLK246,iCAS HormoneAge,Blood,Other age estimate
+CLK247,iCAS ImmuneAge,Blood,Other age estimate
+CLK248,iCAS LipidAge,Blood,Other age estimate
+CLK249,iCAS MetabAge,Blood,Other age estimate
+CLK250,iCAS PhenoAge,Blood,Other age estimate
+CLK251,iCAS ProteinAge,Blood,Other age estimate
+CLK252,iCAS TransAge,Blood,Other age estimate
+CLK219,StocH,Blood,Chronological age
+CLK220,StocP,Blood,Chronological age
+CLK221,StocZ,Blood,Chronological age
+CLK151,Retro-age V1,Blood,Chronological age
+CLK223,Retro-age V2,Blood,Chronological age
+CLK224,Retro-age 450K,Blood,Chronological age
+CLK152,IntrinClock,Multiple tissues,Chronological age
+CLK164,OLS mFSS,Blood,Chronological age
+CLK198,RA mFSS,Blood,Chronological age
+CLK199,IR mFSS,Blood,Chronological age
+CLK166,EpiAgePublic,Blood,Chronological age
+CLK168,Childhood CpG clock,Multiple tissues,Chronological age
+CLK207,Childhood PCA clock,Multiple tissues,Chronological age
+CLK208,Childhood SL PCA clock,Multiple tissues,Chronological age
+CLK172,WKDE,Blood,Chronological age
+CLK174,MskAge,Multiple tissues,Chronological age
+CLK177,EpInflammAge,Blood,Chronological age
+CLK181,PhysAge,Blood,Other age estimate
+CLK186,GOLD-R DNAmAge,Multiple tissues,Other age estimate
+CLK189,EnsembleLR,Multiple tissues,Chronological age
+CLK194,EnsembleNaive,Multiple tissues,Chronological age
+CLK190,MAPLE,Multiple tissues,Chronological age
+CLK222,SenChronoAge,Blood,Chronological age
+CLK137,XAI-AGE,Multiple tissues,Chronological age
+CLK264,DiseaseAge Systemic,Blood,Mortality-related age
+CLK265,DiseaseAge Circulatory,Blood,Mortality-related age
+CLK266,DiseaseAge Digestive,Blood,Mortality-related age
+CLK267,DiseaseAge Genitourinary,Blood,Mortality-related age
+CLK268,DiseaseAge Infectious,Blood,Mortality-related age
+CLK269,DiseaseAge Mental,Blood,Mortality-related age
+CLK270,DiseaseAge Metabolic,Blood,Mortality-related age
+CLK271,DiseaseAge Musculoskeletal,Blood,Mortality-related age
+CLK272,DiseaseAge Nervous,Blood,Mortality-related age
+CLK273,DiseaseAge Respiratory,Blood,Mortality-related age

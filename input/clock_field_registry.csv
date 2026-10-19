@@ -1,0 +1,101 @@
+clock,unit
+Koch (5 CpG),years
+Hannum clock (88 CpG),years
+Hannum clock (69 CpG),years
+Horvath clock (353 CpG),years
+Horvath clock (110 CpG),years
+Weidner (3 CpG),years
+Lin (99 CpG),years
+Lin (3 CpG),years
+Vidal-Bralo (8 CpG),years
+DNAm PhenoAge,years
+Horvath2 clock,years
+DNAm GrimAge,years
+Zhang (514 CpG),years
+BLUP,years
+Wu (111 CpG),years
+Han (65 CpG),years
+ABEC,years
+cABEC,years
+eABEC,years
+Schmidt (7 CpG),years
+Pipek ElasticNet,years
+Pipek Filtered H,years
+Pipek Retrained H,years
+MonoDNAmAge,years
+PCPhenoAge,years
+HRSInCHPhenoAge,years
+PCHorvath,years
+PCHorvath2,years
+PCHannum,years
+PCGrimAge,years
+GrimAge2,years
+AltumAge,years
+DNAmFitAge,years
+ENCen40,years
+ENCen100,years
+Systems Age,years
+SystemsAge Blood,years
+SystemsAge Brain,years
+SystemsAge Inflammation,years
+SystemsAge Heart,years
+SystemsAge Hormone,years
+SystemsAge Immune,years
+SystemsAge Kidney,years
+SystemsAge Liver,years
+SystemsAge Metabolic,years
+SystemsAge Lung,years
+SystemsAge MusculoSkeletal,years
+GP-age (30 CpG),years
+GP-age (10 CpG),years
+GP-age (71 CpG),years
+GP-age (variant a),years
+GP-age (variant b),years
+GP-age (variant c),years
+CausAge,years
+DamAge,years
+AdaptAge,years
+iCAS DNAmAge,years
+iCAS CompositeAge,years
+iCAS FacialAge,years
+iCAS HormoneAge,years
+iCAS ImmuneAge,years
+iCAS LipidAge,years
+iCAS MetabAge,years
+iCAS PhenoAge,years
+iCAS ProteinAge,years
+iCAS TransAge,years
+StocH,years
+StocP,years
+StocZ,years
+Retro-age V1,years
+Retro-age V2,years
+Retro-age 450K,years
+IntrinClock,years
+OLS mFSS,years
+RA mFSS,years
+IR mFSS,years
+EpiAgePublic,years
+Childhood CpG clock,years
+Childhood PCA clock,years
+Childhood SL PCA clock,years
+WKDE,years
+MskAge,years
+EpInflammAge,years
+PhysAge,years
+GOLD-R DNAmAge,years
+EnsembleLR,years
+EnsembleNaive,years
+MAPLE,years
+SenChronoAge,years
+XAI-AGE,years
+DiseaseAge Systemic,years
+DiseaseAge Circulatory,years
+DiseaseAge Digestive,years
+DiseaseAge Genitourinary,years
+DiseaseAge Infectious,years
+DiseaseAge Mental,years
+DiseaseAge Metabolic,years
+DiseaseAge Musculoskeletal,years
+DiseaseAge Nervous,years
+DiseaseAge Respiratory,years
